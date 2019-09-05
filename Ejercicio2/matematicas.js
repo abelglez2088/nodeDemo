@@ -1,6 +1,6 @@
 const PI=3.1416;
 
-function sumar(x1,x2);
+function sumar(x1,x2)
 {
 return x1+x2;
 }
@@ -11,7 +11,7 @@ function dividir(x1,x2){
     if(x2==0){
         mostrarErrorDivision();
     }else{
-        return x1/x2
+        return x1/x2;
     }
 }
 function mostrarErrorDivision(){
