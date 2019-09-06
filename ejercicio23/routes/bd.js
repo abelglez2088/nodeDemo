@@ -16,4 +16,3 @@ conexion.connect(function (error){
 
 
 module.exports=conexion;
-
